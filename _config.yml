@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:month-:day-:year/:title.html
 
-title: 随拍 - 发现&记录
+title: Start
 url: http://zhouhengmin.github.io
-author_info: <a href="zhouhengmin.github.io">zhm</a>
+author_info: <a href="http://zhouhengmin.github.io">zhm</a>
 
