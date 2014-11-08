@@ -7,15 +7,11 @@
     {% include header.html %}
     <div id='container'>
       {% include links.html %}
-      {% include post_pagination.html %}
+      {% include page_pagination.html %}
       <div class="content">
         <section class='post'>
-          <h1>
-            <div class='date'>{{ page.date | date_to_string }}</div>
-            {{ page.title }}
-          </h1>
-          {{ content }}
-          {% include signoff.html %}
+        <h1>{{ page.title }}</h1>
+        {{ content }}
         </section>
       </div>
       {% if site.disqus_shortname and page.disqus != false %}
@@ -25,8 +21,4 @@
     </div>
     {% include footer.html %}
   </body>
- 
 </html>
-
-
-
