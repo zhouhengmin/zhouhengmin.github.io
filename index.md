@@ -1,6 +1,3 @@
----
-
----
 
 {% for post in site.categories.blog %}
 <ul>
