@@ -1,5 +1,5 @@
 ---
-layout: home
+
 ---
 
 {% for post in site.categories.blog %}
