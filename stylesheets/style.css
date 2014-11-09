@@ -132,9 +132,9 @@ footer {
   box-sizing: border-box;
   position: relative;
   width: 100%;
-  font-family: "微软雅黑", "Microsoft Yahei", Courier "Helvetica Neue", Arial, sans-serif,"微软雅黑"
+  font-family: "微软雅黑", "Microsoft Yahei", Courier "Helvetica Neue", Arial, sans-serif"
   border-width: 0;
-  border-style: solid;
+  border-style: none;
   padding: 30px 60px;
   margin: auto; }
 
