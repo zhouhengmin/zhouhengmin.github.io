@@ -1,9 +1,9 @@
-title:            test
-description:      test the blog
+title:            时空胶囊
+description:      让瞬间成为永恒
 url:              
 baseurl:          # Base url. ( if use subdirectory-like URL )
-signoff:          test # Your name.
-disqus_shortname: test # disqus comment thread for post header options. ( leave blank if unwanted. )
+signoff:          Z. # Your name.
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 google_analytics_id: # set tracking, UA-XXXX-Y.
 encoding: utf-8
 links:
@@ -13,7 +13,7 @@ links:
   - name:         Categories
     url:          /tags
   - name:         GitHub
-    url:          http://github.com/test
+    url:          https://github.com/zhouhengmin/zhouhengmin.github.io
     external:     true
   - name:         About
     url:          /about
