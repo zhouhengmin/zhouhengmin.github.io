@@ -2,11 +2,8 @@
 layout: page
 title: About
 ---
-##hello！
+##Hello！
 - Aaron
-- test the template
 
-##find me：
-- 
 
 
